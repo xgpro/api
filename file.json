@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Title",
+        "author": "Author Nale",
+        "image": "https://via.placeholder.com/150",
+        "description": "Simple description",
+        "rating": "4.8",
+        "category": [
+            "action",
+            "romance",
+            "fantasy"
+        ]
+    },
+
+    {
+        "id": 2,
+        "title": "Title",
+        "author": "Author Nale",
+        "image": "https://via.placeholder.com/150",
+        "description": "Simple description",
+        "rating": "4.8",
+        "category": [
+            "fake",
+            "romance",
+            "love"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Title",
+        "author": "Author Nale",
+        "image": "https://via.placeholder.com/150",
+        "description": "Simple description",
+        "rating": "4.8",
+        "category": [
+            "foo",
+            "duck",
+            "bar"
+        ]
+    }
+]
