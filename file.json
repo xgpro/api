@@ -1,263 +1,80 @@
 [
     {
         "id": 1,
-        "title": "Title",
-        "author": "Author Nale",
+        "title": "Eternal Echoes",
+        "author": "Akira Sato",
         "image": "https://via.placeholder.com/150",
-        "description": "Simple description",
-        "rating": "4.8",
+        "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+        "rating": "4.5/5",
         "category": [
-            "action",
-            "romance",
-            "fantasy"
+            "Fantasy",
+            "Romance",
+            "Mystery"
         ]
     },
     {
         "id": 2,
-        "title": "Title",
-        "author": "Author Nale",
+        "title": "Tech Titans",
+        "author": "Yuki Tanaka",
         "image": "https://via.placeholder.com/150",
-        "description": "Simple description",
-        "rating": "4.8",
+        "description": "Set in a high-tech megacity, this manga follows a group of brilliant young inventors and hackers as they battle against corporate greed and government surveillance.",
+        "rating": "4.2/5",
         "category": [
-            "fake",
-            "romance",
-            "love"
+            "Science Fiction",
+            "Action",
+            "Drama"
         ]
     },
     {
         "id": 3,
-        "title": "Title",
-        "author": "Author Nale",
+        "title": "Whispers of the Wind",
+        "author": "Emi Nakamura",
         "image": "https://via.placeholder.com/150",
-        "description": "Simple description",
-        "rating": "4.8",
+        "description": "A heartwarming tale of a village where the wind speaks and the trees remember. The manga explores the deep connections between nature and its people.",
+        "rating": "4.8/5",
         "category": [
-            "foo",
-            "duck",
-            "bar"
+            "Slice of Life",
+            "Fantasy",
+            "Drama"
         ]
     },
     {
         "id": 4,
-        "title": "Adventure Awaits",
-        "author": "Jessica Smith",
+        "title": "Ninja Rivals",
+        "author": "Kazuki Yamashiro",
         "image": "https://via.placeholder.com/150",
-        "description": "Embark on an epic journey filled with danger and excitement.",
-        "rating": "4.5",
+        "description": "Two skilled ninja clans, the Higurashi and the Yurei, engage in a generations-old feud. Follow the intense rivalry and secrets that bind them.",
+        "rating": "4.4/5",
         "category": [
-            "adventure",
-            "fantasy",
-            "action"
+            "Action",
+            "Adventure",
+            "Historical"
         ]
     },
     {
         "id": 5,
-        "title": "Mystery Manor",
-        "author": "David Johnson",
+        "title": "Starstruck Love",
+        "author": "Mio Harada",
         "image": "https://via.placeholder.com/150",
-        "description": "Unravel the secrets of a mysterious mansion in this thrilling mystery novel.",
-        "rating": "4.7",
+        "description": "A romantic comedy manga set in the world of pop idols. Follow the hilarious and heartwarming adventures of a young fan who accidentally becomes an idol manager.",
+        "rating": "4.6/5",
         "category": [
-            "mystery",
-            "thriller",
-            "suspense"
+            "Romance",
+            "Comedy",
+            "Music"
         ]
     },
     {
         "id": 6,
-        "title": "Science Fiction Odyssey",
-        "author": "Emily Roberts",
+        "title": "Beyond the Abyss",
+        "author": "Ryota Suzuki",
         "image": "https://via.placeholder.com/150",
-        "description": "Explore the cosmos and encounter alien civilizations in this mind-bending sci-fi adventure.",
-        "rating": "4.9",
+        "description": "In a post-apocalyptic world, survivors journey into the uncharted abyss, seeking answers and encountering strange creatures. A story of survival and discovery.",
+        "rating": "4.3/5",
         "category": [
-            "science fiction",
-            "space",
-            "aliens"
-        ]
-    },
-    {
-        "id": 7,
-        "title": "Historical Romance",
-        "author": "Sarah Davis",
-        "image": "https://via.placeholder.com/150",
-        "description": "A tale of love and passion set against the backdrop of a bygone era.",
-        "rating": "4.6",
-        "category": [
-            "romance",
-            "historical",
-            "love"
-        ]
-    },
-    {
-        "id": 8,
-        "title": "Thrills and Chills",
-        "author": "Michael Clark",
-        "image": "https://via.placeholder.com/150",
-        "description": "Prepare for a rollercoaster of emotions with this gripping suspense novel.",
-        "rating": "4.7",
-        "category": [
-            "thriller",
-            "suspense",
-            "mystery"
-        ]
-    },
-    {
-        "id": 9,
-        "title": "Fantasy World Chronicles",
-        "author": "Linda White",
-        "image": "https://via.placeholder.com/150",
-        "description": "Step into a magical realm filled with mythical creatures and epic quests.",
-        "rating": "4.8",
-        "category": [
-            "fantasy",
-            "adventure",
-            "magic"
-        ]
-    },
-    {
-        "id": 10,
-        "title": "Epic Love Saga",
-        "author": "Daniel Lee",
-        "image": "https://via.placeholder.com/150",
-        "description": "A sweeping love story that transcends time and space.",
-        "rating": "4.9",
-        "category": [
-            "romance",
-            "love",
-            "epic"
-        ]
-    },
-    {
-        "id": 11,
-        "title": "Crime Solvers",
-        "author": "Sophia Anderson",
-        "image": "https://via.placeholder.com/150",
-        "description": "Join a team of detectives as they solve complex criminal cases.",
-        "rating": "4.6",
-        "category": [
-            "mystery",
-            "crime",
-            "investigation"
-        ]
-    },
-    {
-        "id": 12,
-        "title": "Dystopian Chronicles",
-        "author": "John Miller",
-        "image": "https://via.placeholder.com/150",
-        "description": "A vision of a bleak future where humanity fights for survival.",
-        "rating": "4.5",
-        "category": [
-            "dystopian",
-            "science fiction",
-            "survival"
-        ]
-    },
-    {
-        "id": 13,
-        "title": "Family Drama",
-        "author": "Karen Brown",
-        "image": "https://via.placeholder.com/150",
-        "description": "A story of love, conflicts, and reconciliation within a family.",
-        "rating": "4.6",
-        "category": [
-            "drama",
-            "family",
-            "relationships"
-        ]
-    },
-    {
-        "id": 14,
-        "title": "Comedy Club Chronicles",
-        "author": "Chris Adams",
-        "image": "https://via.placeholder.com/150",
-        "description": "Laugh out loud with this hilarious collection of comedic tales.",
-        "rating": "4.9",
-        "category": [
-            "comedy",
-            "humor",
-            "funny"
-        ]
-    },
-    {
-        "id": 15,
-        "title": "Space Opera",
-        "author": "Lucy Taylor",
-        "image": "https://via.placeholder.com/150",
-        "description": "A grand space adventure with interstellar politics, heroes, and villains.",
-        "rating": "4.8",
-        "category": [
-            "science fiction",
-            "space",
-            "epic"
-        ]
-    },
-    {
-        "id": 16,
-        "title": "Historical Epic",
-        "author": "William Turner",
-        "image": "https://via.placeholder.com/150",
-        "description": "A sweeping historical saga spanning generations and continents.",
-        "rating": "4.7",
-        "category": [
-            "historical",
-            "epic",
-            "family"
-        ]
-    },
-    {
-        "id": 17,
-        "title": "Survival Thriller",
-        "author": "Laura Harris",
-        "image": "https://via.placeholder.com/150",
-        "description": "A heart-pounding tale of survival against all odds in a harsh wilderness.",
-        "rating": "4.7",
-        "category": [
-            "thriller",
-            "survival",
-            "adventure"
-        ]
-    },
-    {
-        "id": 18,
-        "title": "Romantic Comedy",
-        "author": "Ryan Scott",
-        "image": "https://via.placeholder.com/150",
-        "description": "Get ready for a delightful blend of romance and humor in this feel-good novel.",
-        "rating": "4.8",
-        "category": [
-            "romance",
-            "comedy",
-            "humor"
-        ]
-    },
-    {
-        "id": 19,
-        "title": "Mythical Legends",
-        "author": "Ella Martinez",
-        "image": "https://via.placeholder.com/150",
-        "description": "Discover the captivating myths and legends of ancient civilizations.",
-        "rating": "4.6",
-        "category": [
-            "fantasy",
-            "mythology",
-            "adventure"
-        ]
-    },
-    {
-        "id": 20,
-        "title": "Medical Drama",
-        "author": "James Turner",
-        "image": "https://via.placeholder.com/150",
-        "description": "A gripping narrative of doctors, patients, and the challenges of the medical world.",
-        "rating": "4.5",
-        "category": [
-            "drama",
-            "medical",
-            "life"
+            "Adventure",
+            "Science Fiction",
+            "Horror"
         ]
     }
 ]
-
