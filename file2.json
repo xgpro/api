@@ -16,7 +16,7 @@
                 "Thriller",
                 "Horror"
             ],
-            "rating": 4.5,
+            "rating": "4.5",
             "chapters": [
                 {
                     "title": "Chapter 1",
@@ -64,7 +64,7 @@
                 "School",
                 "Music"
             ],
-            "rating": 4.0,
+            "rating": "4.0",
             "chapters": [
                 {
                     "title": "Chapter 1",
@@ -107,7 +107,7 @@
                 "School",
                 "Musica"
             ],
-            "rating": 4.0,
+            "rating": "4.0",
             "chapters": [
                 {
                     "title": "Chapter 1",
@@ -155,7 +155,7 @@
                 "School",
                 "Music"
             ],
-            "rating": 4.0,
+            "rating": "4.0",
             "chapters": [
                 {
                     "title": "Chapter 1",
@@ -203,7 +203,7 @@
                 "School",
                 "Music"
             ],
-            "rating": 4.0,
+            "rating": "4.0",
             "chapters": [
                 {
                     "title": "Chapter 1",
