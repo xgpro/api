@@ -5,7 +5,7 @@
             "author": "Author 1",
             "image": "https://via.placeholder.com/150",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
-            "genre": [
+            "category": [
                 "Action",
                 "Adventure",
                 "Fantasy",
@@ -53,7 +53,7 @@
             "author": "Author 2",
             "image": "https://via.placeholder.com/150",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
-            "genre": [
+            "category": [
                 "Comedy",
                 "Slice of Life",
                 "Supernatural",
@@ -101,7 +101,7 @@
             "author": "Author 2",
             "image": "https://via.placeholder.com/150",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
-            "genre": [
+            "category": [
                 "Comedya",
                 "Slice of Lifea",
                 "School",
@@ -144,7 +144,7 @@
             "author": "Author 2",
             "image": "https://via.placeholder.com/150",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
-            "genre": [
+            "category": [
                 "Comedy",
                 "Slice of Life",
                 "Supernatural",
@@ -192,7 +192,7 @@
             "author": "Author 2",
             "image": "https://via.placeholder.com/150",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
-            "genre": [
+            "category": [
                 "Comedy",
                 "Slice of Life",
                 "Supernatural",
