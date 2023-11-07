@@ -3,7 +3,7 @@
             "id": 1,
             "title": "Manga Title 1",
             "author": "Author 1",
-            "image": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+            "image": "http://via.placeholder.com/300x300",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
             "category": [
                 "Action",
@@ -21,29 +21,29 @@
                 {
                     "title": "Chapter 1",
                     "images": [
-                        "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 2",
                     "images": [
-                        "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 3",
                     "images": [
-                        "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 }
             ]
         },
@@ -51,7 +51,7 @@
             "id": 2,
             "title": "Manga Title 2",
             "author": "Author 2",
-            "image": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+            "image": "http://via.placeholder.com/300x300",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
             "category": [
                 "Comedy",
@@ -69,29 +69,29 @@
                 {
                     "title": "Chapter 1",
                     "images": [
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 2",
                     "images": [
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 3",
                     "images": [
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 }
             ]
         },
@@ -99,7 +99,7 @@
             "id": 3,
             "title": "Manga Title 2",
             "author": "Author 2",
-            "image": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+            "image": "http://via.placeholder.com/300x300",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
             "category": [
                 "Comedya",
@@ -112,29 +112,29 @@
                 {
                     "title": "Chapter 1",
                     "images": [
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 2",
                     "images": [
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 3",
                     "images": [
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 }
             ]
         },
@@ -142,7 +142,7 @@
             "id": 4,
             "title": "Manga Title 2",
             "author": "Author 2",
-            "image": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+            "image": "http://via.placeholder.com/300x300",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
             "category": [
                 "Comedy",
@@ -160,29 +160,29 @@
                 {
                     "title": "Chapter 1",
                     "images": [
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 2",
                     "images": [
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 3",
                     "images": [
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 }
             ]
         },
@@ -190,7 +190,7 @@
             "id": 5,
             "title": "Manga Title 2",
             "author": "Author 2",
-            "image": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+            "image": "http://via.placeholder.com/300x300",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
             "category": [
                 "Comedy",
@@ -208,29 +208,29 @@
                 {
                     "title": "Chapter 1",
                     "images": [
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 2",
                     "images": [
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 },
                 {
                     "title": "Chapter 3",
                     "images": [
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
-                        "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
                     ],
-                    "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+                    "cover": "http://via.placeholder.com/300x300"
                 }
             ]
         }
