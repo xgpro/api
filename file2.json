@@ -1,0 +1,229 @@
+{
+    "manga": [
+      {
+        "id": 1,
+        "title": "Manga Title 1",
+        "author": "Author 1",
+        "genre": [
+          "Action", 
+          "Adventure", 
+          "Fantasy", 
+          "Romance", 
+          "Drama", 
+          "Sci-Fi", 
+          "Mystery", 
+          "Thriller", 
+          "Horror"
+        ],
+        "rating": 4.5,
+        "chapters": [
+          {
+            "title": "Chapter 1",
+            "images": [
+              "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/641/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 2",
+            "images": [
+              "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/642/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 3",
+            "images": [
+              "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/643/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Manga Title 2",
+        "author": "Author 2",
+        "genre": [
+          "Comedy", 
+          "Slice of Life", 
+          "Supernatural", 
+          "Historical", 
+          "Psychological", 
+          "Sports", 
+          "Martial Arts", 
+          "School", 
+          "Music"
+        ],
+        "rating": 4.0,
+        "chapters": [
+          {
+            "title": "Chapter 1",
+            "images": [
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 2",
+            "images": [
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 3",
+            "images": [
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Manga Title 2",
+        "author": "Author 2",
+        "genre": [
+          "Comedya", 
+          "Slice of Lifea", 
+          "School", 
+          "Musica"
+        ],
+        "rating": 4.0,
+        "chapters": [
+          {
+            "title": "Chapter 1",
+            "images": [
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 2",
+            "images": [
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 3",
+            "images": [
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Manga Title 2",
+        "author": "Author 2",
+        "genre": [
+          "Comedy", 
+          "Slice of Life", 
+          "Supernatural", 
+          "Historical", 
+          "Psychological", 
+          "Sports", 
+          "Martial Arts", 
+          "School", 
+          "Music"
+        ],
+        "rating": 4.0,
+        "chapters": [
+          {
+            "title": "Chapter 1",
+            "images": [
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 2",
+            "images": [
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 3",
+            "images": [
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Manga Title 2",
+        "author": "Author 2",
+        "genre": [
+          "Comedy", 
+          "Slice of Life", 
+          "Supernatural", 
+          "Historical", 
+          "Psychological", 
+          "Sports", 
+          "Martial Arts", 
+          "School", 
+          "Music"
+        ],
+        "rating": 4.0,
+        "chapters": [
+          {
+            "title": "Chapter 1",
+            "images": [
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/644/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 2",
+            "images": [
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/645/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          },
+          {
+            "title": "Chapter 3",
+            "images": [
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A",
+              "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+            ],
+            "cover": "https://fastly.picsum.photos/id/646/200/300.jpg?hmac=TpiMIigzR3rlnmP84Df902LYzuV4pApn7Tq6lCYic0A"
+          }
+        ]
+      }
+    ]
+}
