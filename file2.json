@@ -462,7 +462,374 @@
         },
         {
             "id": 11,
-            "title": "Manga Title 7",
+            "title": "Manga Title 11",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Manga Title 12",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Manga Title 13",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Manga Title 14",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Manga Title 15",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Manga Title 16",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Manga Title 17",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Manga Title 18",
+            "author": "Author 2",
+            "image": "http://via.placeholder.com/300x300",
+            "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
+            "category": [
+                "category 01",
+                "Category 02",
+                "Category 03",
+                "category 04",
+                "Category 05",
+                "Category 06"
+           
+            ],
+            "rating": "4.0",
+            "chapters": [
+                {
+                    "title": "Chapter 1",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 2",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                },
+                {
+                    "title": "Chapter 3",
+                    "images": [
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300",
+                        "http://via.placeholder.com/300x300"
+                    ],
+                    "cover": "http://via.placeholder.com/300x300"
+                }
+            ]
+        },        {
+            "id": 19,
+            "title": "Manga Title 19",
             "author": "Author 2",
             "image": "http://via.placeholder.com/300x300",
             "description": "In a world where time is fluid, a young girl discovers a hidden power to relive moments from the past. She must navigate the consequences of altering history.",
